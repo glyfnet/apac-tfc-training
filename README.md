@@ -42,3 +42,5 @@ This is a collection training resources used for new TFC members. The original g
 Follow the links below to begin one of the courses.
 
 * [Computer Visions 1](Computer_Vision_1)
+
+* [Natural Language Processing 1](Natural_Language_Processing_1)
